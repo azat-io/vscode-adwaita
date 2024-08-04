@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Adwaita Dark",
-  "type": "light",
+  "type": "dark",
   "colors": {
     "scrollbar.shadow": "#00000000",
     "activityBar.background": "#303030",
